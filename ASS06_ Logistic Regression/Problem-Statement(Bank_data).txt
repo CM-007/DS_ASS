@@ -1,0 +1,6 @@
+Output variable -> y
+y -> Whether the client has subscribed a term deposit or not 
+Binomial ("yes" or "no")
+
+Ans:-
+	https://github.com/CM-007/DS_ASS/blob/9c94041ffab909b27e0ab057b5c9e5d1604a5886/Ass06_LogisticRegression.ipynb
