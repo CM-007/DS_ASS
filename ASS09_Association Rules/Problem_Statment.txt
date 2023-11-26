@@ -1,0 +1,12 @@
+Prepare rules for the all the data sets 
+1) Try different values of support and confidence. Observe the change in number of rules for different support,confidence values
+2) Change the minimum length in apriori algorithm
+3) Visulize the obtained rules using different plots 
+
+
+Ans(book):- 	
+
+	https://github.com/CM-007/DS_ASS/blob/515617cf2e5cda7d0a0259291749d80e4b26bd39/Ass_09Association_Rules(book).ipynb
+
+Ans(movie):-
+	https://github.com/CM-007/DS_ASS/blob/39056560f702dc78e40a3018bb90fceb57bc3f31/Ass_09Association_Rules(movies).ipynb
