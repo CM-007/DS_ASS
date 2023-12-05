@@ -1,0 +1,7 @@
+Problem statement.
+
+Build a recommender system by using cosine simillarties score.
+
+
+Ans:-
+	https://github.com/CM-007/DS_ASS/blob/dab23036d3de83d08df6ec9b01b75e2fc0a78062/Ass10_Recommender_Systems(book).ipynb
