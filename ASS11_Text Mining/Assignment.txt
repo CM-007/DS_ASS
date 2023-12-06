@@ -1,0 +1,18 @@
+For Text Mining assignment
+ 
+ ONE:
+1) Perform sentimental analysis on the Elon-musk tweets (Exlon-musk.csv)
+
+
+Ans :-
+	https://github.com/CM-007/DS_ASS/blob/46365c8fa5ee996704ee79a3aea3eaeac72d3750/Ass11NLP(Text%20Mining).ipynb
+
+
+ TWO:
+1) Extract reviews of any product from ecommerce website like amazon
+
+2) Perform emotion mining
+
+
+Ans :-
+	https://github.com/CM-007/DS_ASS/blob/4be488f53ec27c64d03c7a363fefdff76908533d/ASS11_Text%20Mining%20-%20(%20Amazon%20Review%20).ipynb
