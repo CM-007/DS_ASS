@@ -1,0 +1,4 @@
+Implement a KNN model to classify the animals in to categorie
+
+Ans :-
+	https://github.com/CM-007/DS_ASS/blob/13c9eb34881a5aba14cd1eec4dc319067fcb05ff/Ass13_KNN(Zoo).ipynb
