@@ -1,0 +1,14 @@
+Forecast the CocaCola prices and Airlines Passengers data set.
+
+
+Prepare a document for each model explaining how many dummy variables you have created and RMSE value for each model.
+
+
+Finally which model you will use for Forecasting.
+
+
+Ans:-
+	https://github.com/CM-007/DS_ASS/blob/3d03105ed44c1effc772450d8e30250eb30d9e71/Assignment_18_Forecasting_(Airlines%2BData).ipynb
+
+
+	https://github.com/CM-007/DS_ASS/blob/7642760b7bd53d492dc3f5bbda8a819d5c607c3f/Assignment_18_Forecasting_(CocaCola_Sales_Rawdata).ipynb
